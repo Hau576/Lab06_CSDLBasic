@@ -1,18 +1,17 @@
-﻿
-using Bai2;
+﻿using Bai2;
 using System;
 using System.Windows.Forms;
 
-namespace BaiTapXuLyChuoi
+namespace DanhSachDiemApp
 {
-    internal static class Program
+    static class Program
     {
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Diem());
+            Application.Run(new Form2());
         }
     }
 }

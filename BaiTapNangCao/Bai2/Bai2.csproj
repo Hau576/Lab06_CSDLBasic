@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EDE3524E-E714-4793-B89B-D22645B9D3D3}</ProjectGuid>
+    <ProjectGuid>{EFACDB0C-A9B2-4A27-B2D9-B242FC2C78BE}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Bai2</RootNamespace>
     <AssemblyName>Bai2</AssemblyName>
@@ -46,11 +46,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Diem.cs">
+    <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Diem.Designer.cs">
-      <DependentUpon>Diem.cs</DependentUpon>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

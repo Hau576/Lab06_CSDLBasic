@@ -1,17 +1,17 @@
-﻿using System;
+﻿using Bai1;
+using System;
 using System.Windows.Forms;
-using WindowsFormsApp1;
 
-namespace BaiTapQuanLySinhVien
+namespace DanhSachLopApp
 {
-    internal static class Program
+    static class Program
     {
         [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new QuanLySinhVien());
+            Application.Run(new Form1());
         }
     }
 }
