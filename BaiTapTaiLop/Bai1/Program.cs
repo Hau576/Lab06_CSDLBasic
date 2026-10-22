@@ -1,8 +1,7 @@
-﻿using Bai1;
-using System;
+﻿using System;
 using System.Windows.Forms;
 
-namespace BaiTapQuanLyMonHoc
+namespace BaiTapSinhVienCombo
 {
     internal static class Program
     {
@@ -11,7 +10,7 @@ namespace BaiTapQuanLyMonHoc
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new QuanLyMonHoc());
+            Application.Run(new SinhVien());
         }
     }
 }

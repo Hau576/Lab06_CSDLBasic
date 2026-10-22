@@ -1,0 +1,9 @@
+C:\Users\ASUS\Downloads\Lab06\6b\BaiTapTaiLop\Bai2\bin\Debug\Bai2.exe.config
+C:\Users\ASUS\Downloads\Lab06\6b\BaiTapTaiLop\Bai2\bin\Debug\Bai2.exe
+C:\Users\ASUS\Downloads\Lab06\6b\BaiTapTaiLop\Bai2\bin\Debug\Bai2.pdb
+C:\Users\ASUS\Downloads\Lab06\6b\BaiTapTaiLop\Bai2\obj\Debug\Bai2.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\Lab06\6b\BaiTapTaiLop\Bai2\obj\Debug\Bai2.Properties.Resources.resources
+C:\Users\ASUS\Downloads\Lab06\6b\BaiTapTaiLop\Bai2\obj\Debug\Bai2.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\Lab06\6b\BaiTapTaiLop\Bai2\obj\Debug\Bai2.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\Lab06\6b\BaiTapTaiLop\Bai2\obj\Debug\Bai2.exe
+C:\Users\ASUS\Downloads\Lab06\6b\BaiTapTaiLop\Bai2\obj\Debug\Bai2.pdb
